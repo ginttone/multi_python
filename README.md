@@ -1,1 +1,3 @@
 # multi_python
+
+class, function, lambda etc...
